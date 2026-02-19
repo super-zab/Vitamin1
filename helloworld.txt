@@ -1,0 +1,15 @@
+A QA engineer walks into a bar.
+
+He orders a beer.
+He orders 0 beers.
+He orders 999999999 beers.
+He orders a lizard.
+He orders -1 beers.
+He orders a ueicbksjdhd.
+
+All tests pass.
+
+Then the first real customer walks in and asks where the bathroom is.
+The bar bursts into flames.
+
+Why is it funny ? CS guys test every cases possible, only to watch their code crash due to a basic user interaction, lol. :p
